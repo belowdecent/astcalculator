@@ -8,11 +8,11 @@ The goal of this project was to better understand parsing and building ASTs for 
 2. Clone this repo
 
 ## Usage
-Simply run this command in the project folder. 
+Simply run this command in the project folder:
 ```
 haxe --main Repl --interp
 ``` 
-You will be greeted with this prompt.
+You will be greeted with this prompt:
 
 ```
 calc>
