@@ -1,4 +1,4 @@
-# About this project
+## About this project
 This is a simple terminal based calculator written in Haxe.
 Parsing is done by tokenising the input and building an AST (abstract syntax tree: https://en.wikipedia.org/wiki/Abstract_syntax_tree) from those tokens.
 The goal of this project was to better understand parsing and building ASTs for my upcoming projects.
