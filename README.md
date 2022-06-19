@@ -5,9 +5,10 @@ The goal of this project was to better understand parsing and building ASTs for 
 
 ## Prerequisites
 1. Install Haxe binaries: https://haxe.org/download/
+2. Clone this repo
 
 ## Usage
-Simply run 'haxe --main Repl --interp' in the command line in the project folder1. 
+Simply run 'haxe --main Repl --interp' in the command line in the project folder. 
 You will be greeted with this prompt.
 
 ```
