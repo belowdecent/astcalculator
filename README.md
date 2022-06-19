@@ -25,8 +25,10 @@ calc> 7 + 9 * (8 / 2)
 calc> 43
 ```
 
+To quit the program either type in `exit` or press <kbd>Ctrl</kbd>+<kbd>C</kbd>
+
 ## Current limitations
-- supports described operators: `+ - * /`
+- supports only these operators: `+ - * /`
 - work only with integer numbers
 - overflows at the signed 32-bit integer values (2147483647 and -2147483648) 
 ```
