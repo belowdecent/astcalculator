@@ -8,7 +8,10 @@ The goal of this project was to better understand parsing and building ASTs for 
 2. Clone this repo
 
 ## Usage
-Simply run 'haxe --main Repl --interp' in the command line in the project folder. 
+Simply run this command in the project folder. 
+```
+haxe --main Repl --interp
+``` 
 You will be greeted with this prompt.
 
 ```
